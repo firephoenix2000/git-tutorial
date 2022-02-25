@@ -2,7 +2,9 @@
 
 生产经营计划智能决策
 
-test for add branch
+test for add branch  -feature-A
 
 -fix-B
+
+-faeture-C
 
