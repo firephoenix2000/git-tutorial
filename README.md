@@ -8,3 +8,6 @@ test for add branch  -feature-A
 
 -feature-C
 
+
+--feature-D
+
