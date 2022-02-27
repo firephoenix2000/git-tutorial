@@ -6,5 +6,5 @@ test for add branch  -feature-A
 
 -fix-B
 
--faeture-C
+-feature-C
 
