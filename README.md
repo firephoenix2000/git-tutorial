@@ -11,3 +11,4 @@ test for add branch  -feature-A
 
 --feature-D
 
+--another feature-D
